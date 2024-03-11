@@ -19,10 +19,10 @@ Gõ tiếp lệnh "cd Desktop/tea-xyz-quest" để trỏ tới thư mục c
 
 "npm login" => Có 1 đường dẫn để bấm vào sẽ mở trình duyệt dẫn tới web login npm
 
-Sau khi login thành công gõ lệnh "npm publish --access public" để public package lên npm publish. Truy cập npm để check VD: https://www.npmjs.com/package/@whalepiz/tea-xyz-quest
+Sau khi login thành công gõ lệnh "npm publish --access public" để public package lên npm publish. Truy cập npm để check VD: https://www.npmjs.com/package/@whalepizdev/tea-xyz-quest
 
 Truy cập app.tea.xyz => Register a New OSS Project
 
-Tìm kiếm tên package vừa tạo. VD: @whalepiz/tea-xyz-quest . Bước này có thể mất tới 2-3 ngày để package mới xuất hiện trên hệ thống của tea.xyz
+Tìm kiếm tên package vừa tạo. VD: @whalepizdev/tea-xyz-quest . Bước này có thể mất tới 2-3 ngày để package mới xuất hiện trên hệ thống của tea.xyz
 
 Sau đó tea sẽ cho 1 file có tên tea.yaml, tải về và quay lại repo github, upload tiếp file đó lên là xong.
